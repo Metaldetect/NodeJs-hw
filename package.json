@@ -12,17 +12,12 @@
   "keywords": [],
   "author": "Stanislav",
   "license": "ISC",
-  "engines": {
-    "node": "18",
-    "npm": "9"
-  },
   "dependencies": {
     "commander": "^11.0.0",
     "cors": "^2.8.5",
     "nanoid": "^2.1.11"
   },
   "devDependencies": {
-    "nodemon": "^3.0.1",
-    "prettier": "^3.0.3"
+    "nodemon": "^3.0.1"
   }
 }
